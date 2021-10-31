@@ -10,7 +10,7 @@ This project simulates 8 bit ALU (Arithmetic Logic Unit) on FPGA board. It has A
 
 ## Output
 
-![Output image](/images/Output_ALU.jpg)
+![Output image](/images/Output_ALU.JPG)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
